@@ -2,9 +2,13 @@
 layout: default
 ---
 
-| **Semester:**|| Summer I 2022|
+| **Semester:**|| Fall 2022|
 | <strong>Campus:</strong>      || Athens                   |
 | **Office:**       || Gibbs Academic Building, A131|
-| *Office Hours:*|| By appointment only. Please contact me via the Canvas Inbox or email. |
+| *Office Hours:*||   Monday: 8:00 - 9:15 a.m.; 10:45 - 11:45 a.m.<br />
+                      Tuesday: 8:00 - 9:15 a.m.; 1:00 - 3:30 p.m.<br />
+                      Wednesday 8:00 - 9:15 a.m.; 10:45 - 11:45 a.m.<br />
+                      Thursday: 8:45 - 9:15 a.m.; 1:00 - 3:30 p.m.<br />
+                      Friday: By appointment only|
 | *Office Phone:* || 903-675-6348                      |
 | ***Email:***        || matthew.cleaver@tvcc.edu |
