@@ -43,9 +43,16 @@
   border-collapse: collapse;
 }
 tr {
-  border: solid;
-  border-width: 1px 0;
+    border-bottom: solid;
+    border-width: 1px 0;
+    padding: 5px;
+    display: block;
 }
+tr:last-child {
+    border-bottom: none;
+}
+
+
 
         </style>
         <base target="_parent">
