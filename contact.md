@@ -1,12 +1,6 @@
 ---
 layout: default
 ---
-<style>
-table {
-    border: 1px solid rgb(190, 190, 190);
-    padding: 10px;
-}
-</style>
 
 | **Semester:**|| Spring 2023|
 | <strong>Campus:</strong>      || Athens                   |
