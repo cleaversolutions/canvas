@@ -2,7 +2,7 @@
 layout: default
 ---
 <style>
-tr {
+table {
     border: 1px solid rgb(190, 190, 190);
     padding: 10px;
 }
