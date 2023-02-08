@@ -2,7 +2,7 @@
 layout: default
 ---
 <style>
-th {
+tr {
     border: 1px solid rgb(190, 190, 190);
     padding: 10px;
 }
