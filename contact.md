@@ -2,9 +2,9 @@
 layout: default
 ---
 
-| **Semester:**|| Summer 2023|
+| **Semester:**|| Fall 2023|
 | <strong>Campus:</strong>      || Athens                   |
 | **Office:**       || Gibbs Academic Building, A131|
-| *Student Support/<br />Tutoring Hours:*||By appointment only|
+| *Student Support/<br />Tutoring Hours:*||To Be Announced|
 | *Office Phone:* || 903-675-6348                      |
 | ***Email:***        || matthew.cleaver@tvcc.edu |
