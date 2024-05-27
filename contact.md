@@ -2,7 +2,7 @@
 layout: default
 ---
 
-| **Semester:**|| Spring 2024|
+| **Semester:**|| Summer 2024|
 | <strong>Campus:</strong>      || Athens                   |
 | **Office:**       || Gibbs Academic Building, A131|
 | *Student Support/<br />Tutoring Hours:*||By appointment|
